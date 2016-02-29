@@ -1,0 +1,48 @@
+- 140 TRAITE‘ SUR LE FLUX
+
+Ι Je n'ajofiterni pas lo demonstretion de ce Lemme: mo'u il est pourtont
+bon d'avertir ici, qu’en cherchent la velem· de ς, qui marque le sinus de
+ln difference do deux angles donnes par leurs sinus, on tombe focilement
+dans une outre expression beaucoup plus prolixe, etqui rend le calcul
+
+dn Probleme que nous allone exposer, presque impreticable.
+
+PROBLEME.
+
+'Ilonver les points z, οιὶ les hauteurs y z soient les plus grandes.
+
+SOLUTION.
+
+La nature de notre Probleme demando, qne la differentielle de yz,
+scevoir ’md HQ led? (§. Vlll.) solt = 0, ou bien ρᾶς = :assde
+
+Etsi l’on differentie l'equotion seconde du precedent Lemme, ou trouve,
+premnt les quantiles m, n et b pour constantes, et σ pour variable,
+εάἐξιιιισάσ-ιιηισὼι ψῖωησσ-ηωδὺάσ
+b b b b es (b b— cc)
+En comparant ces deux voleurs de g d g, on trouve nne nouvelle equation,
+sl laquelle on pourre donner une telle forme,
+
+(-.‘3.bb⁶÷mm«-nno) nmmum-mnu& si
+
+l’on suppose pour ebreger ln formule ’Μ -Ι- 2¹. - Ξ = A, on trouve
+
+lm n n m
+apres nnc reduction entiere de l’eqnetion le sinus de l’engle b C z, ou
+
+÷=‡d(3ssm²lffl)). 0.q.f.t.
+
+SCHOLIE.
+
+XIL-Il ne sera pos difficile de reconnoltre dans chaque cos, quel
+choix on doit faire des signes ambigue. Meis pour faciliter lo chose, et
+pour en donner une ides d’autant plus distincte, on pourre seire les
+remusques qui suivent.
+
+1⁰. Que notre formule mnrquc eu meme tems quatre points z, Z, s et
+S; quoles deux premiere diametrolement oppos6s‚ merqnent que la mer
+y est le plus haute, et les deux autres diametrnlement opposcs marquent
+quc lo mer x est lc plus basse, etque l’orc z s est toujours de 90⁰, ce que
+
+ 
+

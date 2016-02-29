@@ -1,0 +1,48 @@
+288 INQUISITIO PHYSICA IN CAUSAM
+
+conjunctio sive oppositio luminarium verum meridiem vel praecedit vel
+sequitur, duplicari, totidemque minuta prima ad tempus medium notatum, ¹
+quo fluxus evenire solet, vel addi vel ab eo subtrahi, quo verum fluxirs
+momentum obtineatur, Quoniam autem haec correctio nititur motu
+Lunae medio, perspicuum est eam correctione ulteriori opus habere, a
+vero Lunae motu petiti, quae verb plerumque erit insensibilis, crim summa
+· aqum elevatio non subiti) adsit, sed per tempus satis notabile duret. i
+' l. 61. Nisi autem luminirria proxima sint vel conjunctioni vel opposi-
+tioni, maxima maris elevatio non in ipsum Lunae transitum per meridia·
+num incidet. Quoniam enim Luna dum prope meridianum versatur, κ
+per aliquod tempus eandem altitudinem conservat, tantisper etiam mare j
+eandem elevationem retinebit3 et hanc ob rem si Sol interea sensibiliter ,
+vel ab horizonte recedat, vel ad eundem accedat, vis Solis ad mare ele- i
+⁴ vandum vel crescet sensibiliter, vel decrescet3 ex quo dum Luna prope ¹
+meridianum existit, ficri potest, ut tamen mare etiamnum elevetur, vel
+adeo jam deprimatur aSole. Ex his igitur perspicuum est summam
+maris altitudinem tardius seu post transitum Lunae per meridianum acci·
+dere debere, ai eo tempore Sol ab horizonte accedat, id quod evenit κ
+diebus novilunium et plenilunium praecedentibus. Contrd autem si l
+Luna post Solem per meridianum transeat, idque vel ante Solis ortum
+rel ante occasum3 tum, quia mare intransitu Lunae per meridianum a
+vi Solis deprimitur, marrianam habuit altitudinem ante appulsum Lunae
+ad meridianum, id quod contingit diebus novilunium pleniluniunrve se· ,
+. questibus. Quando autem Sol ipsum horizontem occupat, dum Luna in
+meridiano versatur, tum etiamsi distantia Solis ab horizonte perquam sit
+mutabilia, tamen crim elevationis vis quadrato sinim altitudinis Solis sit l
+proportionalis, quod omniuo evanescit, etiam hoc casu maxima aquae ele·
+vatio in ipsum Lunae per meridianum trmrsitum incidet, hicque casus
+eirca quadraturas luminarium locum habet.
+
+§. 62. 'Ut igitur innotescat, quamtum vires cdm Solis tirm Lunae ad
+mare elevandum dato tempore vel crescant vel decrescant, dum ab hori-
+aoute aliquantillum vel recedunt, vel ad eundem accedunt, ponamus
+Solem Lunamve in L versari, atque inde ad punctum meridiani M
+progredi. Tempusculo ergo per angulum L Pl = d t repreasentate pro·
+gredietur Luna vel Sol ex L in l atque ab horizonte removebitur inter-
+vallo L h: ad quod inveniendum sit ut ante anguli M P L casinus = t,
+
+-Ι- dt ,, dt
+es (1 - t t) ’
+exquoorieturmguliMPlcosinus= t ÷ dt=t÷Tda sijamponamr
+
+et ainus = T, eritque ipse angulus L Pl = dt -
+
+ 
+

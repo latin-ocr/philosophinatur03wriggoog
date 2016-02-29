@@ -1,0 +1,56 @@
+ΕΤ uEFLUx DE LA MER. . 135
+
+xlx-void donc les cas et les hypotheses, par lesquelles nous com·
+mencerons. Nous supposerons d'obord‚ que la Lune leit des oercles
+
+parisits autour de le Terre, et pareillement le Terre autour du Soleil:
+que ces orbites sont dans le plan de l'equateur de le Terre: que toute ln
+
+Terre est inondee: que la surface de ln mer prend dans un instant sa
+juste figure, tout comme si l'eau n'ovoit point d'inertie, ni resistanoes ς et
+
+enfin qu'il ne hille detenniner les loix des merees, que sous l'equuteur. .
+
+Meis ovant de seire les celenis, il sera bon d’exposer preliminairement
+quelques Lemmes geometriques.
+
+mm
+
+CHAPITRE V. ·
+
+contonam quelques Propositum de geometris pre'liminuires pour
+PEsplication e! le calent des Marcios.
+
+PROBLEME.
+
+I.-Sorr, comme ei-devant, le cerole bgdh et l’ellipse presque circulsire
+B G D H, et supposons ln sphere et le spheroide decrits par la rotation
+du eercle et de l'ellipse autour de l’axe BD,
+
+egaux3 trouver le rapport entre les petites
+
+lignes Bb et G g.
+
+SOLUTION.
+
+Nous supposerons pour nous servir des g
+
+memes expressions, que nous orons employees
+
+jusqu’ici‚ Bb÷ Gg= ῦς Gg=x,et Bb
+
+:e-x3 CbouCg=b3 nlacirconference
+
+du cerole, dont le rnyon est egel i l'unite.
+
+Ceci pose, ou spuit que la sphere sero =
+
+{n b ὅΞ on sqeit aussi, qu’un ellipsoide (dont le grand exe est = uA,
+et le plus petit diametro ,τ 2 B) eet ,τ {n B B A; cele donne notre
+spheroide = {n(b-x)2 Χ (b 4- C-x) = §n (b³-sbbx÷bbc)
+si l'on neglige les inliniment petits du seoond ordre. Fuisent i present
+par la condition du Probleme la sphere §gule au spheroide, on e {n b'
+= §n(b⁸-3bbx -Ι- hbe) o'estaeidire, x = μ’. C. q. l t.
+
+ 
+
